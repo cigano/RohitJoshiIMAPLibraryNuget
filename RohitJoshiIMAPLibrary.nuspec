@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>RohitJoshiIMAPLibrary</id>
+    <version>1.0.0</version>
+    <authors>Rohit Joshi, Cigano Morrison Mendez</authors>
+    <owners>Cigano Morrison Mendez</owners>
+	<licenseUrl>http://opensource.org/licenses/mozilla1.1.php</licenseUrl>
+    <projectUrl>http://www.codeproject.com/Articles/8008/IMAP-Client-library-using-C</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple IMAP Library written by Rohit Joshi.</description>
+    <releaseNotes>Packaging and first release.</releaseNotes>
+    <copyright>Copyright 2014 Rohit Joshi and Cigano Morrison Mendez</copyright>
+    <tags>imap</tags>
+    <dependencies/>
+  </metadata>
+</package>
